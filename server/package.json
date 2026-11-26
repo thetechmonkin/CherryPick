@@ -1,0 +1,16 @@
+{
+  "name": "cherrypick",
+  "version": "1.0.0",
+  "description": "Server for CherryPick",
+  "license": "ISC",
+  "author": "Saurabh Pandey",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
